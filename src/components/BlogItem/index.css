@@ -1,0 +1,28 @@
+.list-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.title-and-date-container {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  color: #12022f;
+  font-size: 20px;
+  font-weight: 500;
+}
+.description {
+  color: #616e7c;
+  font-size: 18px;
+  font-weight: 500;
+}
+.publishedDate {
+  color: #616e7c;
+  font-size: 18px;
+  font-weight: 500;
+}
+.under-line {
+  width: 100%;
+  color: #616e7c;
+}
